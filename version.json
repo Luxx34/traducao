@@ -1,32 +1,18 @@
 {
-  "version": "1.0",
+  "version": "v1.0",
+  "base_url": "https://github.com/Luxx34/traducao/releases/download/v1.0/",
   "files": {
     "paks": [
-      {
-        "url": "https://github.com/Luxx34/Tradu-oLauncherFiles/releases/download/V1.0/pakchunk999-Windows_999_P.pak",
-        "filename": "pakchunk999-Windows_999_P.pak"
-      },
-      {
-        "url": "https://github.com/Luxx34/Tradu-oLauncherFiles/releases/download/V1.0/pakchunk999-Windows_999_P.utoc",
-        "filename": "pakchunk999-Windows_999_P.utoc"
-      },
-      {
-        "url": "https://github.com/Luxx34/Tradu-oLauncherFiles/releases/download/V1.0/pakchunk999-Windows_999_P.ucas",
-        "filename": "pakchunk999-Windows_999_P.ucas"
-      }
+      "pakchunk999-Windows_999_P.pak",
+      "pakchunk999-Windows_999_P.utoc",
+      "pakchunk999-Windows_999_P.ucas"
     ],
     "binaries": [
-      {
-        "url": "https://github.com/Luxx34/Tradu-oLauncherFiles/releases/download/V1.0/version.dll",
-        "filename": "version.dll"
-      },
-      {
-        "url": "https://github.com/Luxx34/Tradu-oLauncherFiles/releases/download/V1.0/UniversalSigBypasser.asi",
-        "filename": "UniversalSigBypasser.asi"
-      }
+      "version.dll",
+      "UniversalSigBypasser.asi"
     ]
   },
   "update_only": {
-    "pak_url": "https://github.com/Luxx34/Tradu-oLauncherFiles/releases/download/V1.0/pakchunk999-Windows_999_P.pak"
+    "pak": "pakchunk999-Windows_999_P.pak"
   }
 }
